@@ -27,7 +27,7 @@ Este proyecto proporciona una solución automatizada para migrar tu biblioteca m
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/mapacheroja/SpotifyToYTMusic.git
+git clone https://github.com/valenpy22/SpotifyToYTMusic.git
 cd SpotifyToYTMusic
 
 # Crear entorno virtual
